@@ -1,0 +1,28 @@
+i3
+vim
+urxvt
+rofi
+compton
+zsh
+git -needed to get stuff from github
+oh-my-zsh
+hack (font)
+
+[for polybar]
+cmake
+g++
+pkg-config
+libcairo2-dev
+libxcb-xkb-dev -had to update apt-get
+libxcb-randr0-dev
+xcb-proto
+libxcb-ewmh-dev
+libxcb-icccm4-dev
+libxcb-image0-dev
+libxcb-util0-dev
+python-xcbgen
+libiw-dev
+libasound2-dev
+libxcb-xrm-dev
+
+polybar

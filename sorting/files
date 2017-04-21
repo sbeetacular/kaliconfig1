@@ -1,0 +1,8 @@
+Files in Folder and Where They Need to Go
+
+Command: ln -s [where they are(fullpath)] [where they need to go(fullpath)]
+
+i3config      ~/.config/i3/config
+Xresources    ~/.Xresources
+polybarconf   ~/.config/polybar/config
+polybarlaunch ~/.config/polybar/launch.sh
